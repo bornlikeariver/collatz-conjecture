@@ -3,7 +3,7 @@ The simplest impossible math problem (aka 3x+1)
 ## How it works
 The Collatz Conjecture, or 3x+1, is a math problem that contains **two rules**:
 1. Every even number is **divided by 2** *(i.e. **10/2 = 5, 4/2 = 2**)*
-2. Every odd number is **multiplied by 3, then add 1** *(i.e. 3\*9+1 = 28)*
+2. Every odd number is **multiplied by 3, then add 1** *(i.e. **3\*9+1 = 28**)*
 
 As long as these two rules are applied, you can insert any number and there will be absolutely no end
 * If positive, the number will always jump into a **4, 2, 1** loop

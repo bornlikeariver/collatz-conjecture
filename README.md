@@ -24,3 +24,4 @@ Besides that, do whatever you want, make it as long as you want, just have fun.
 - Insert any positive number and it is 99.9% guaranteed to have the 4, 2, 1 loop at the end. It stops when it reaches 1 to avoid overflow.
     - This is because when it reaches 1, it follows the rule of the odd number (3x+1), therefore making it 4 again, and then 2, and then back to 1.
 **Refresh to retry**
+../Collatz.html

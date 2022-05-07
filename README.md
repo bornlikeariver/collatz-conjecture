@@ -12,7 +12,7 @@ As long as these two rules are applied, you can insert any number and there will
   - -5, -14, -7, -20, -10, loop
   - -17, 50, -25, -74, -37, -110, -55, -164, -82, -41, -122, -61, -91, -272, -136, -68, 34, loop
 
-This file will stop when it reaches 1 because since it's an odd number, therefore following the 3x+1 rule. *(3\*1+1 = 4, 4/2 = 2, 2/2 = 1; 4, 2, 1 loop)*
+This file will stop when it reaches 1 because it's an odd number, therefore following the 3x+1 rule. *(3\*1+1 = 4, 4/2 = 2, 2/2 = 1; 4, 2, 1 loop)*
 
 ## Important
 This file can only handle positive numbers.

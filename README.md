@@ -8,9 +8,9 @@ The Collatz Conjecture, or 3x+1, is a math problem that contains **two rules**:
 As long as these two rules are applied, you can insert any number and there will be absolutely no end
 * If positive, the number will always jump into a **4, 2, 1** loop
 * If negative, the number will jump into one of 3 loops
-  - -2, 1, 4, 2, 1 (4, 2, 1, loop)
+  - -2, 1, 4, 2, 1, loop (1 turns into 4, turns into 2, and back to 1)
   - -5, -14, -7, -20, -10, loop
-  - -17, 50, -25, -74, -37, -110, -55, -164, -82, -41, -122, -61, -91, -272, -136, -68, 34, loop
+  - -17, 50, -25, -74, -37, -110, -55, -164, -82, -41, -122, -61, -91, -272, -136, -68, 34, loop (number turns positive)
 
 This file will stop when it reaches 1 because it's an odd number, therefore following the 3x+1 rule. *(3\*1+1 = 4, 4/2 = 2, 2/2 = 1; 4, 2, 1 loop)*
 
